@@ -1,0 +1,10 @@
+c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.Form1.resources
+c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.Properties.Resources.resources
+c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\bin\Debug\WebServicesPlatform.exe.config
+c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\bin\Debug\WebServicesPlatform.exe
+c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\bin\Debug\WebServicesPlatform.pdb
+c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.exe
+c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.pdb
