@@ -6,6 +6,8 @@ using System.ServiceModel;
 
 namespace WebServicesPlatform
 {
+
+
     public static class Credit
     {
         public static string Process(string dsiCreditRequest, string transactionPassword)

@@ -55,6 +55,7 @@
     <Compile Include="frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="Gift.cs" />
     <Compile Include="InvoiceNumber.cs" />
     <Compile Include="ProcessingEnvironment.cs" />
     <Compile Include="Program.cs" />

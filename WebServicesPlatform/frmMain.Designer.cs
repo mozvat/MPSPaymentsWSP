@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.btnCreditSale = new System.Windows.Forms.Button();
+            this.btnGiftSale = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCreditSale
@@ -41,11 +42,22 @@
             this.btnCreditSale.UseVisualStyleBackColor = true;
             this.btnCreditSale.Click += new System.EventHandler(this.btnCreditSale_Click);
             // 
+            // btnGiftSale
+            // 
+            this.btnGiftSale.Location = new System.Drawing.Point(28, 81);
+            this.btnGiftSale.Name = "btnGiftSale";
+            this.btnGiftSale.Size = new System.Drawing.Size(103, 53);
+            this.btnGiftSale.TabIndex = 1;
+            this.btnGiftSale.Text = "Gift Sale";
+            this.btnGiftSale.UseVisualStyleBackColor = true;
+            this.btnGiftSale.Click += new System.EventHandler(this.btnGiftSale_Click);
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(157, 102);
+            this.ClientSize = new System.Drawing.Size(157, 195);
+            this.Controls.Add(this.btnGiftSale);
             this.Controls.Add(this.btnCreditSale);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "frmMain";
@@ -57,6 +69,7 @@
         #endregion
 
         private System.Windows.Forms.Button btnCreditSale;
+        private System.Windows.Forms.Button btnGiftSale;
     }
 }
 
