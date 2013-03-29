@@ -8,3 +8,13 @@ c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServ
 c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\bin\Debug\WebServicesPlatform.pdb
 c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.exe
 c:\users\ozvat\documents\visual studio 2010\Projects\WebServicesPlatform\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.pdb
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\bin\Debug\WebServicesPlatform.exe.config
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.exe
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.pdb
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.frmMain.resources
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.Properties.Resources.resources
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\bin\Debug\WebServicesPlatform.exe
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\bin\Debug\WebServicesPlatform.pdb
