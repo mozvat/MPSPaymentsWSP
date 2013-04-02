@@ -57,6 +57,7 @@
     </Compile>
     <Compile Include="Gift.cs" />
     <Compile Include="InvoiceNumber.cs" />
+    <Compile Include="Loyalty.cs" />
     <Compile Include="ProcessingEnvironment.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
