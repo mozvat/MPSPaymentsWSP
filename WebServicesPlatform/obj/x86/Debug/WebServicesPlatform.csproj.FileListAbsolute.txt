@@ -18,3 +18,6 @@ C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPayments
 C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\bin\Debug\WebServicesPlatform.exe
 C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\MPSPaymentsWSP\WebServicesPlatform\bin\Debug\WebServicesPlatform.pdb
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\WebServicesPlatform\bin\Debug\WebServicesPlatform.exe.config
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.exe
+C:\Users\mozvat\Documents\Visual Studio 2010\Projects\MPSPaymentsWSP\WebServicesPlatform\obj\x86\Debug\WebServicesPlatform.pdb
